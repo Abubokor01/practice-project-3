@@ -1,0 +1,87 @@
+.header {
+
+   display: block;
+    background-image: url("../images/banner/banner2.png");
+    background-repeat: no-repeat;
+    width: 1600px;
+    height: 809px;
+    padding-top: 200px;
+padding-right: 216px;
+}
+
+
+.header-title {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    color: #151414;
+   padding-left: 845px;
+    font-family: Work Sans;
+    font-size: 65px;
+    font-weight: 700;
+
+
+}
+
+.header-description {
+    color: #444343;
+    font-family: Work Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    padding-left: 845px;
+
+}
+
+.primary-button {
+    color: #FFF;
+    font-family: Work Sans;
+    font-size: 20px;
+    font-weight: 600;
+    width: 160px;
+    height: 64px;
+    border-radius: 5px;
+    background: #F15B22;
+}
+
+.contact-us{
+
+    padding-left: 1210px;
+
+}
+
+/* my failure section starts here */
+
+.failures{
+background-image: url("../images/person.png");
+background-repeat: no-repeat;
+background-position: top middle;
+width: 1600px;
+height: 3223px;
+padding-top: 100px;
+}
+
+.failure-title{
+padding-left: 862px;
+    color:  #151414;
+font-family: Work Sans;
+font-size: 40px;
+font-weight: 700;
+
+}
+
+.failure-description{
+    color:  #444343;
+    font-family: Work Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+padding-left: 862px;
+    
+
+}
+
+.past-failures{
+    margin: 10px;
+    padding-left: 862px;
+}
